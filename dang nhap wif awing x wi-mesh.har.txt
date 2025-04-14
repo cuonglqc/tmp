@@ -1,0 +1,1719 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2025-04-13T17:28:46.536Z",
+        "id": "page_10",
+        "title": "http://186.186.0.1/login",
+        "pageTimings": {
+          "onContentLoad": 547.7720000199042,
+          "onLoad": 879.6759999822825
+        }
+      },
+      {
+        "startedDateTime": "2025-04-13T17:28:49.718Z",
+        "id": "page_11",
+        "title": "http://v1.awingconnect.vn/login?serial=CC:2D:E0:0E:00:0A&client_mac=26:17:2E:AE:22:79&client_ip=186.186.31.234&userurl=&login_url=http://186.186.0.1/login&chap_id=\\341&chap_challenge=\\363\\171\\010\\126\\227\\164\\210\\270\\167\\220\\050\\242\\106\\270\\256\\302",
+        "pageTimings": {
+          "onContentLoad": 1784.1639999533072,
+          "onLoad": 1824.7889999765903
+        }
+      },
+      {
+        "startedDateTime": "2025-04-13T17:29:11.192Z",
+        "id": "page_12",
+        "title": "http://186.186.0.1/login",
+        "pageTimings": {
+          "onContentLoad": 228.1770000117831,
+          "onLoad": 260.33099996857345
+        }
+      },
+      {
+        "startedDateTime": "2025-04-13T17:29:11.471Z",
+        "id": "page_13",
+        "title": "http://v1.awingconnect.vn/Success",
+        "pageTimings": {
+          "onContentLoad": 341.99899999657646,
+          "onLoad": 383.08100000722334
+        }
+      },
+      {
+        "startedDateTime": "2025-04-13T17:29:11.894Z",
+        "id": "page_14",
+        "title": "http://deeplink.awing.vn/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined",
+        "pageTimings": {
+          "onContentLoad": null,
+          "onLoad": null
+        }
+      },
+      {
+        "startedDateTime": "2025-04-13T17:29:14.150Z",
+        "id": "page_15",
+        "title": "https://mywifi.vn/download",
+        "pageTimings": {
+          "onContentLoad": 851.0439999517985,
+          "onLoad": 14802.770999958739
+        }
+      }
+    ],
+    "entries": [
+      {
+        "_connectionId": "375271",
+        "_initiator": {
+          "type": "other"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "80",
+        "pageref": "page_10",
+        "request": {
+          "method": "GET",
+          "url": "http://186.186.0.1/login",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Host",
+              "value": "186.186.0.1"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 614,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "Keep-Alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "2041"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html"
+            },
+            {
+              "name": "Date",
+              "value": "Sun, 18 Jan 1970 08:05:23 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "0"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 2041,
+            "mimeType": "text/html",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 164,
+          "bodySize": 2041,
+          "_transferSize": 2205,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "186.186.0.1",
+        "startedDateTime": "2025-04-13T17:28:46.530Z",
+        "time": 56.74700002418831,
+        "timings": {
+          "blocked": 14.748000019341708,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.5029999999999983,
+          "wait": 40.34099999946356,
+          "receive": 1.1550000053830445,
+          "_blocked_queueing": 6.118000019341707,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "375276",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "us",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 101740
+              },
+              {
+                "functionName": "us",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 101873
+              },
+              {
+                "functionName": "us",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 101905
+              },
+              {
+                "functionName": "us",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 101873
+              },
+              {
+                "functionName": "us",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 101873
+              },
+              {
+                "functionName": "ys",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 107230
+              },
+              {
+                "functionName": "gs",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 105341
+              },
+              {
+                "functionName": "vs",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 103905
+              },
+              {
+                "functionName": "gs",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 105204
+              },
+              {
+                "functionName": "",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 119157
+              },
+              {
+                "functionName": "Su",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 119718
+              },
+              {
+                "functionName": "iu",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 112176
+              },
+              {
+                "functionName": "S",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 145487
+              },
+              {
+                "functionName": "P",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 146021
+              }
+            ],
+            "parentId": {
+              "id": "2",
+              "debuggerId": "-814981028325210667.-3919006745225721115"
+            }
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "80",
+        "pageref": "page_10",
+        "request": {
+          "method": "GET",
+          "url": "http://186.186.0.1/terms.html",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Host",
+              "value": "186.186.0.1"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "http://186.186.0.1/login"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 654,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "Keep-Alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "25203"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html"
+            },
+            {
+              "name": "Date",
+              "value": "Sun, 18 Jan 1970 08:05:23 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "0"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 25203,
+            "mimeType": "text/html",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 140,
+          "bodySize": 25203,
+          "_transferSize": 25343,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "186.186.0.1",
+        "startedDateTime": "2025-04-13T17:28:47.105Z",
+        "time": 56.49200000334531,
+        "timings": {
+          "blocked": 4.616000008568168,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.20100000000000007,
+          "wait": 46.051000011704865,
+          "receive": 5.623999983072281,
+          "_blocked_queueing": 2.3250000085681677,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "375540",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 336882
+              },
+              {
+                "functionName": "as",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 100690
+              },
+              {
+                "functionName": "ku",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 120917
+              },
+              {
+                "functionName": "",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 117507
+              },
+              {
+                "functionName": "S",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 145487
+              },
+              {
+                "functionName": "P",
+                "scriptId": "16",
+                "url": "http://186.186.0.1/static/js/main.226b3d06.js",
+                "lineNumber": 1,
+                "columnNumber": 146021
+              }
+            ],
+            "parentId": {
+              "id": "15",
+              "debuggerId": "-814981028325210667.-3919006745225721115"
+            }
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "80",
+        "pageref": "page_11",
+        "request": {
+          "method": "GET",
+          "url": "http://v1.awingconnect.vn/login?serial=CC:2D:E0:0E:00:0A&client_mac=26:17:2E:AE:22:79&client_ip=186.186.31.234&userurl=&login_url=http://186.186.0.1/login&chap_id=\\341&chap_challenge=\\363\\171\\010\\126\\227\\164\\210\\270\\167\\220\\050\\242\\106\\270\\256\\302",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Host",
+              "value": "v1.awingconnect.vn"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "http://186.186.0.1/"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "serial",
+              "value": "CC:2D:E0:0E:00:0A"
+            },
+            {
+              "name": "client_mac",
+              "value": "26:17:2E:AE:22:79"
+            },
+            {
+              "name": "client_ip",
+              "value": "186.186.31.234"
+            },
+            {
+              "name": "userurl",
+              "value": ""
+            },
+            {
+              "name": "login_url",
+              "value": "http://186.186.0.1/login"
+            },
+            {
+              "name": "chap_id",
+              "value": "\\341"
+            },
+            {
+              "name": "chap_challenge",
+              "value": "\\363\\171\\010\\126\\227\\164\\210\\270\\167\\220\\050\\242\\106\\270\\256\\302"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 734,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "cache-control",
+              "value": "private"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "date",
+              "value": "Sun, 13 Apr 2025 17:28:49 GMT"
+            },
+            {
+              "name": "server",
+              "value": "Kestrel"
+            },
+            {
+              "name": "transfer-encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 6944,
+            "mimeType": "text/html",
+            "compression": 4133
+          },
+          "redirectURL": "",
+          "headersSize": 253,
+          "bodySize": 2811,
+          "_transferSize": 3064,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "1.52.48.205",
+        "startedDateTime": "2025-04-13T17:28:49.708Z",
+        "time": 362.1509999599494,
+        "timings": {
+          "blocked": 16.580000001855193,
+          "dns": 91.83,
+          "ssl": -1,
+          "connect": 97.39699999999999,
+          "send": 0.5450000000000017,
+          "wait": 134.99299997219816,
+          "receive": 20.80599998589605,
+          "_blocked_queueing": 9.892000001855195,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "375847",
+        "_initiator": {
+          "type": "other"
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "80",
+        "pageref": "page_12",
+        "request": {
+          "method": "POST",
+          "url": "http://186.186.0.1/login",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "119"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/x-www-form-urlencoded"
+            },
+            {
+              "name": "Host",
+              "value": "186.186.0.1"
+            },
+            {
+              "name": "Origin",
+              "value": "http://v1.awingconnect.vn"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "http://v1.awingconnect.vn/"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 703,
+          "bodySize": 119,
+          "postData": {
+            "mimeType": "application/x-www-form-urlencoded",
+            "text": "username=awing15-15&password=2b2e8bb072d0107612be3013d01ab521&dst=http%3A%2F%2Fv1.awingconnect.vn%2FSuccess&popup=false",
+            "params": [
+              {
+                "name": "username",
+                "value": "awing15-15"
+              },
+              {
+                "name": "password",
+                "value": "2b2e8bb072d0107612be3013d01ab521"
+              },
+              {
+                "name": "dst",
+                "value": "http%3A%2F%2Fv1.awingconnect.vn%2FSuccess"
+              },
+              {
+                "name": "popup",
+                "value": "false"
+              }
+            ]
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "Keep-Alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "964"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html"
+            },
+            {
+              "name": "Date",
+              "value": "Sun, 18 Jan 1970 08:05:47 GMT"
+            },
+            {
+              "name": "Expires",
+              "value": "0"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 964,
+            "mimeType": "text/html",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 163,
+          "bodySize": 964,
+          "_transferSize": 1127,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "186.186.0.1",
+        "startedDateTime": "2025-04-13T17:29:11.187Z",
+        "time": 70.38899998740106,
+        "timings": {
+          "blocked": 7.4089999894686045,
+          "dns": 0.016999999999999904,
+          "ssl": -1,
+          "connect": 5.718,
+          "send": 0.484,
+          "wait": 55.62799998544529,
+          "receive": 1.133000012487173,
+          "_blocked_queueing": 5.341999989468604,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "375864",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "startClock",
+                "scriptId": "52",
+                "url": "http://186.186.0.1/login",
+                "lineNumber": 14,
+                "columnNumber": 22
+              },
+              {
+                "functionName": "onload",
+                "scriptId": "59",
+                "url": "http://186.186.0.1/login",
+                "lineNumber": 20,
+                "columnNumber": 28
+              }
+            ]
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "80",
+        "pageref": "page_13",
+        "request": {
+          "method": "GET",
+          "url": "http://v1.awingconnect.vn/Success",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Host",
+              "value": "v1.awingconnect.vn"
+            },
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Referer",
+              "value": "http://186.186.0.1/"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": 7038,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html; charset=utf-8"
+            },
+            {
+              "name": "date",
+              "value": "Sun, 13 Apr 2025 17:29:11 GMT"
+            },
+            {
+              "name": "server",
+              "value": "Kestrel"
+            },
+            {
+              "name": "transfer-encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 7049,
+            "mimeType": "text/html",
+            "compression": 4099
+          },
+          "redirectURL": "",
+          "headersSize": 188,
+          "bodySize": 2950,
+          "_transferSize": 3138,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "1.52.48.205",
+        "startedDateTime": "2025-04-13T17:29:11.463Z",
+        "time": 48.95800001276657,
+        "timings": {
+          "blocked": 9.339999999649823,
+          "dns": 0.02499999999999991,
+          "ssl": -1,
+          "connect": 17.669999999999998,
+          "send": 0.42400000000000304,
+          "wait": 20.288999996390192,
+          "receive": 1.2100000167265534,
+          "_blocked_queueing": 8.423999999649823,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "openLandingpageV2",
+                "scriptId": "20",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive-utils.min.js?v=wJF_5VXM8kyhQ_3MOpNLGrclOLI",
+                "lineNumber": 0,
+                "columnNumber": 5376
+              },
+              {
+                "functionName": "",
+                "scriptId": "67",
+                "url": "",
+                "lineNumber": 2,
+                "columnNumber": 22
+              },
+              {
+                "functionName": "m",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 879
+              },
+              {
+                "functionName": "$e",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 46273
+              },
+              {
+                "functionName": "append",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 47632
+              },
+              {
+                "functionName": "",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 48728
+              },
+              {
+                "functionName": "M",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 29496
+              },
+              {
+                "functionName": "html",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 48404
+              },
+              {
+                "functionName": "UIActions.showViewHtml",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 11246
+              },
+              {
+                "functionName": "moveNextView",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 21252
+              },
+              {
+                "functionName": "t",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 25428
+              },
+              {
+                "functionName": "i",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 25576
+              }
+            ],
+            "parent": {
+              "description": "postMessage",
+              "callFrames": [
+                {
+                  "functionName": "completeEvent",
+                  "scriptId": "22",
+                  "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                  "lineNumber": 0,
+                  "columnNumber": 26115
+                },
+                {
+                  "functionName": "completeEventByType",
+                  "scriptId": "22",
+                  "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                  "lineNumber": 0,
+                  "columnNumber": 22970
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "22",
+                  "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                  "lineNumber": 0,
+                  "columnNumber": 21984
+                },
+                {
+                  "functionName": "c",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 25303
+                },
+                {
+                  "functionName": "fireWith",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 26052
+                },
+                {
+                  "functionName": "l",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 77909
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 80264
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "pageref": "page_14",
+        "request": {
+          "method": "GET",
+          "url": "http://deeplink.awing.vn/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": ":authority",
+              "value": "deeplink.awing.vn"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            },
+            {
+              "name": ":path",
+              "value": "/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": "accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "priority",
+              "value": "u=0, i"
+            },
+            {
+              "name": "referer",
+              "value": "http://v1.awingconnect.vn/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "sec-fetch-dest",
+              "value": "document"
+            },
+            {
+              "name": "sec-fetch-mode",
+              "value": "navigate"
+            },
+            {
+              "name": "sec-fetch-site",
+              "value": "cross-site"
+            },
+            {
+              "name": "upgrade-insecure-requests",
+              "value": "1"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "url",
+              "value": "https%3A%2F%2Fmywifi.vn%2Fdownload"
+            },
+            {
+              "name": "deep_link",
+              "value": "https%3A%2F%2Fmywifi.vn%2Fdownload"
+            },
+            {
+              "name": "app_id",
+              "value": "undefined"
+            },
+            {
+              "name": "app_type",
+              "value": "undefined"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "Temporary Redirect",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "content-length",
+              "value": "3967"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {
+              "name": "date",
+              "value": "Sun, 13 Apr 2025 17:29:12 GMT"
+            },
+            {
+              "name": "etag",
+              "value": "\"64e2e6b0-f7f\""
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 21 Aug 2023 04:23:12 GMT"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.25.2"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2025-04-13T17:29:11.878Z",
+        "time": 15.919999976176769,
+        "timings": {
+          "blocked": 15.919999976176769,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": -2.9140000115148723,
+          "receive": 0,
+          "_blocked_queueing": 15.919999976176769
+        }
+      },
+      {
+        "_connectionId": "375958",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "openLandingpageV2",
+                "scriptId": "20",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive-utils.min.js?v=wJF_5VXM8kyhQ_3MOpNLGrclOLI",
+                "lineNumber": 0,
+                "columnNumber": 5376
+              },
+              {
+                "functionName": "",
+                "scriptId": "67",
+                "url": "",
+                "lineNumber": 2,
+                "columnNumber": 22
+              },
+              {
+                "functionName": "m",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 879
+              },
+              {
+                "functionName": "$e",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 46273
+              },
+              {
+                "functionName": "append",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 47632
+              },
+              {
+                "functionName": "",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 48728
+              },
+              {
+                "functionName": "M",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 29496
+              },
+              {
+                "functionName": "html",
+                "scriptId": "17",
+                "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                "lineNumber": 1,
+                "columnNumber": 48404
+              },
+              {
+                "functionName": "UIActions.showViewHtml",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 11246
+              },
+              {
+                "functionName": "moveNextView",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 21252
+              },
+              {
+                "functionName": "t",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 25428
+              },
+              {
+                "functionName": "i",
+                "scriptId": "22",
+                "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                "lineNumber": 0,
+                "columnNumber": 25576
+              }
+            ],
+            "parent": {
+              "description": "postMessage",
+              "callFrames": [
+                {
+                  "functionName": "completeEvent",
+                  "scriptId": "22",
+                  "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                  "lineNumber": 0,
+                  "columnNumber": 26115
+                },
+                {
+                  "functionName": "completeEventByType",
+                  "scriptId": "22",
+                  "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                  "lineNumber": 0,
+                  "columnNumber": 22970
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "22",
+                  "url": "http://v1.awingconnect.vn/captive/awing-captive.min.js?v=NgCTgQpyKBhdnQy_mnjVKlh7u9Y",
+                  "lineNumber": 0,
+                  "columnNumber": 21984
+                },
+                {
+                  "functionName": "c",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 25303
+                },
+                {
+                  "functionName": "fireWith",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 26052
+                },
+                {
+                  "functionName": "l",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 77909
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "17",
+                  "url": "http://v1.awingconnect.vn/lib/jquery/dist/jquery.min.js?v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo&v=_JqT3SQfawRcv_BIHPThkBvs0OEvtFFmqPF_lYI_Cxo",
+                  "lineNumber": 1,
+                  "columnNumber": 80264
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_14",
+        "request": {
+          "method": "GET",
+          "url": "https://deeplink.awing.vn/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "Referer",
+              "value": "http://v1.awingconnect.vn/"
+            },
+            {
+              "name": "Upgrade-Insecure-Requests",
+              "value": "1"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "url",
+              "value": "https%3A%2F%2Fmywifi.vn%2Fdownload"
+            },
+            {
+              "name": "deep_link",
+              "value": "https%3A%2F%2Fmywifi.vn%2Fdownload"
+            },
+            {
+              "name": "app_id",
+              "value": "undefined"
+            },
+            {
+              "name": "app_type",
+              "value": "undefined"
+            }
+          ],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "content-length",
+              "value": "3967"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {
+              "name": "date",
+              "value": "Sun, 13 Apr 2025 17:29:12 GMT"
+            },
+            {
+              "name": "etag",
+              "value": "\"64e2e6b0-f7f\""
+            },
+            {
+              "name": "last-modified",
+              "value": "Mon, 21 Aug 2023 04:23:12 GMT"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "compute-pressure=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "idle-detection=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "keyboard-map=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "attribution-reporting=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "private-aggregation=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "private-state-token-issuance=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "private-state-token-redemption=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "join-ad-interest-group=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "run-ad-auction=()"
+            },
+            {
+              "name": "permissions-policy",
+              "value": "browsing-topics=()"
+            },
+            {
+              "name": "server",
+              "value": "nginx/1.25.2"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 3967,
+            "mimeType": "text/html"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 4111,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "1.52.48.204",
+        "startedDateTime": "2025-04-13T17:29:11.891Z",
+        "time": 1319.6530000349246,
+        "timings": {
+          "blocked": 4.2870000115148725,
+          "dns": 32.153000000000006,
+          "ssl": 1191.321,
+          "connect": 1255.029,
+          "send": 0.40599999999994907,
+          "wait": 26.49200001005829,
+          "receive": 1.2860000133514404,
+          "_blocked_queueing": 2.9140000115148723,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "376076",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "openUrl",
+                "scriptId": "54",
+                "url": "https://deeplink.awing.vn/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined",
+                "lineNumber": 57,
+                "columnNumber": 25
+              },
+              {
+                "functionName": "openLandingpage",
+                "scriptId": "54",
+                "url": "https://deeplink.awing.vn/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined",
+                "lineNumber": 76,
+                "columnNumber": 33
+              },
+              {
+                "functionName": "",
+                "scriptId": "54",
+                "url": "https://deeplink.awing.vn/?url=https%3A%2F%2Fmywifi.vn%2Fdownload&deep_link=https%3A%2F%2Fmywifi.vn%2Fdownload&app_id=undefined&app_type=undefined",
+                "lineNumber": 22,
+                "columnNumber": 0
+              }
+            ]
+          }
+        },
+        "_priority": "VeryHigh",
+        "_resourceType": "document",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_15",
+        "request": {
+          "method": "GET",
+          "url": "https://mywifi.vn/download",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": ":authority",
+              "value": "mywifi.vn"
+            },
+            {
+              "name": ":method",
+              "value": "GET"
+            },
+            {
+              "name": ":path",
+              "value": "/download"
+            },
+            {
+              "name": ":scheme",
+              "value": "https"
+            },
+            {
+              "name": "accept",
+              "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+              "name": "accept-encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "accept-language",
+              "value": "en-US,en;q=0.9,vi;q=0.8"
+            },
+            {
+              "name": "cache-control",
+              "value": "no-cache"
+            },
+            {
+              "name": "pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "priority",
+              "value": "u=0, i"
+            },
+            {
+              "name": "referer",
+              "value": "https://deeplink.awing.vn/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"135\", \"Not-A.Brand\";v=\"8\", \"Chromium\";v=\"135\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "sec-fetch-dest",
+              "value": "document"
+            },
+            {
+              "name": "sec-fetch-mode",
+              "value": "navigate"
+            },
+            {
+              "name": "sec-fetch-site",
+              "value": "cross-site"
+            },
+            {
+              "name": "upgrade-insecure-requests",
+              "value": "1"
+            },
+            {
+              "name": "user-agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "",
+          "httpVersion": "http/2.0",
+          "headers": [
+            {
+              "name": "accept-ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "content-encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "content-length",
+              "value": "497"
+            },
+            {
+              "name": "content-type",
+              "value": "text/html"
+            },
+            {
+              "name": "date",
+              "value": "Sun, 13 Apr 2025 17:29:14 GMT"
+            },
+            {
+              "name": "etag",
+              "value": "\"34f-625d4e20c1100-gzip\""
+            },
+            {
+              "name": "last-modified",
+              "value": "Fri, 01 Nov 2024 07:28:36 GMT"
+            },
+            {
+              "name": "server",
+              "value": "nginx"
+            },
+            {
+              "name": "vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "x-powered-by",
+              "value": "PleskLin"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 847,
+            "mimeType": "text/html",
+            "text": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><link rel=\"icon\" href=\"./assets/images/MyWifi.jpg\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><meta name=\"description\" content=\"MyWIFI - mua và quản lý thẻ INTERNET.\"/><link rel=\"apple-touch-icon\" href=\"assets/images/MyWifi.jpg\"/><meta property=\"og:image\" content=\"assets/images/MyWifi.jpg\"/><link rel=\"manifest\" href=\"/manifest.json\"/><link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap\" rel=\"stylesheet\"/><title>My Wifi</title><script defer=\"defer\" src=\"/static/js/main.ef0b0b97.js\"></script><link href=\"/static/css/main.af089425.css\" rel=\"stylesheet\"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 688,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "14.224.217.5",
+        "startedDateTime": "2025-04-13T17:29:14.148Z",
+        "time": 203.9119999852665,
+        "timings": {
+          "blocked": 5.529000032704324,
+          "dns": 34.982,
+          "ssl": 48.491,
+          "connect": 121.06800000000001,
+          "send": 0.28699999999999193,
+          "wait": 40.62600002481416,
+          "receive": 1.4199999277479947,
+          "_blocked_queueing": 1.8160000327043235,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      }
+    ]
+  }
+}

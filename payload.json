@@ -1,0 +1,33 @@
+{
+  "device": {
+    "deviceId": "8B2F2E7F-A4C1-4B2F-9C3F-D96A8DB26E58",
+    "userId": 473812,
+    "deviceName": "Samsung Galaxy A01",
+    "os": "Android",
+    "osVersion": "10",
+    "appVersion": "2.1.4",
+    "network": "WiFi",
+    "type": "mobile",
+    "status": "active"
+  },
+  "wifiInfo": {
+    "identity": "DHQUYNHON_01",
+    "mac": "26:17:2E:AE:22:79",
+    "ip": "186.186.31.234",
+    "username": "26:17:2E:AE:22:79",
+    "link-login": "http://186.186.0.1/login",
+    "link-login-only": "http://186.186.0.1/login",
+    "link-logout": "http://186.186.0.1/logout",
+    "istrial": "yes",
+    "chap_id": "374",
+    "chap_challenge": "374,202,275,207,324,257,121,015,061,325,267,067,046,141,155,160,073,257,163,262",
+    "uptime": "0s",
+    "blocked": "no",
+    "login-by-mac": "yes",
+    "logged-in": "no",
+    "interface-name": "WM_AWING",
+    "hostname": "186.186.0.1",
+    "server-address": "186.186.0.1:80",
+    "server-name": "WM_AWING"
+  }
+}
